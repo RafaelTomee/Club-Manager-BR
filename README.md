@@ -49,6 +49,6 @@ O projeto foi desenvolvido com foco em:
 
 * Entidades bem definidas
 
-Conversores para tipos como LocalDate e LocalDateTime
+* Conversores para tipos como LocalDate e LocalDateTime
 
-Sistema de migração de versões do banco
+* Sistema de migração de versões do banco
