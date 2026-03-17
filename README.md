@@ -44,25 +44,6 @@ Gradle (Kotlin DSL) – Gerenciamento de build
 
 🏗️ Estrutura do Projeto
 
-O projeto segue uma organização em camadas:
-
-📦 app
- ┣ 📂 modelo
- ┃ ┣ Clube.java
- ┃ ┣ Competicoes.java
- ┃ ┗ Divisao.java
- ┣ 📂 persistencia
- ┃ ┣ ClubeDao.java
- ┃ ┣ CompeticoesDao.java
- ┃ ┣ ClubesDatabase.java
- ┃ ┗ Migrações
- ┣ 📂 utils
- ┣ 📂 activities
- ┃ ┣ ClubeActivity.java
- ┃ ┣ ClubesActivity.java
- ┃ ┣ CompeticoesActivity.java
- ┃ ┗ SobreActivity.java
-💾 Banco de Dados
 
 O app utiliza Room para persistência local, com:
 
