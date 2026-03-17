@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ThemeStylesIcons" parent="Theme.Material3.Dark">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/cinza</item>
+        <item name="colorPrimaryVariant">@color/preto</item>
+        <item name="colorOnPrimary">@color/preto</item>
+
+        <item name="android:textColorLink">@color/link</item>
+    </style>
+
+    <style name="SpinnerDatePickerDialogTheme" parent ="ThemeOverlay.Material3.Dark">
+        <item name="android:datePickerStyle">@style/SpinnerDatePickerStyle</item>
+        <item name="android:windowIsFloating">true</item>
+
+
+    </style>
+
+    <style name="SpinnerDatePickerStyle" parent = "android:Widget.Material.DatePicker">
+        <item name="android:datePickerMode">spinner</item>
+    </style>
+
+    <color name="corSelecionada">@color/cinza_transparte</color>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados">
+    <item>@string/acre</item>
+    <item>@string/alagoas</item>
+    <item>@string/amap</item>
+    <item>@string/amazonas</item>
+    <item>@string/bahia</item>
+    <item>@string/cear</item>
+    <item>@string/esp_rito_santo</item>
+    <item>@string/goi_s</item>
+    <item>@string/maranh_o</item>
+    <item>@string/mato_grosso</item>
+    <item>@string/mato_grosso_do_sul</item>
+    <item>@string/minas_gerais</item>
+    <item>@string/par</item>
+    <item>@string/para_ba</item>
+    <item>@string/paran</item>
+    <item>@string/pernambuco</item>
+    <item>@string/piau</item>
+    <item>@string/rio_de_janeiro</item>
+    <item>@string/rio_grande_do_norte</item>
+    <item>@string/rio_grande_do_sul</item>
+    <item>@string/rond_nia</item>
+    <item>@string/roraima</item>
+    <item>@string/santa_catarina</item>
+    <item>@string/s_o_paulo</item>
+    <item>@string/sergipe</item>
+    <item>@string/tocantins</item>
+    <item>@string/distrito_federal</item>
+    </string-array>
+
+    <string-array name="clubes_nome">
+        <item>Corinthians</item>
+        <item>Atlético Mineiro</item>
+        <item>Flamengo</item>
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Grêmio</item>
+        <item>Internacional</item>
+        <item>Fluminense</item>
+        <item>Vasco da Gama</item>
+        <item>Botafogo</item>
+        <item>Vitória</item>
+        <item>Ceará</item>
+        <item>Cruzeiro</item>
+        <item>Bahia</item>
+        <item>Fortaleza</item>
+        <item>Red Bull Bragantino</item>
+        <item>Santos</item>
+        <item>Mirassol</item>
+        <item>Sport Recife</item>
+        <item>Juvenude</item>
+
+    </string-array>
+
+    <integer-array name="clubes_com_mundial">
+
+        <item>1</item> <!-- Corinthians -->
+        <item>0</item> <!-- Atlético Mineiro -->
+        <item>1</item> <!-- Flamengo -->
+        <item>1</item> <!-- São Paulo -->
+        <item>0</item> <!-- Palmeiras -->
+        <item>1</item> <!-- Grêmio -->
+        <item>1</item> <!-- Internacional -->
+        <item>0</item> <!-- Fluminense -->
+        <item>0</item> <!-- Vasco da Gama -->
+        <item>0</item> <!-- Botafogo -->
+        <item>0</item> <!-- Vitória -->
+        <item>0</item> <!-- Ceará -->
+        <item>0</item> <!-- Cruzeiro -->
+        <item>0</item> <!-- Bahia -->
+        <item>0</item> <!-- Fortaleza -->
+        <item>0</item> <!-- Red Bull Bragantino -->
+        <item>1</item> <!-- Santos -->
+        <item>0</item> <!-- Mirassol -->
+        <item>0</item> <!-- Sport Recife -->
+        <item>0</item> <!-- Juventude -->
+
+    </integer-array>
+
+    <integer-array name="clubes_Estado">
+
+        <item>23</item> <!-- Corinthians -->
+        <item>11</item> <!-- Atlético Mineiro -->
+        <item>17</item> <!-- Flamengo -->
+        <item>23</item> <!-- São Paulo -->
+        <item>23</item> <!-- Palmeiras -->
+        <item>19</item> <!-- Grêmio -->
+        <item>19</item> <!-- Internacional -->
+        <item>17</item> <!-- Fluminense -->
+        <item>17</item> <!-- Vasco da Gama -->
+        <item>17</item> <!-- Botafogo -->
+        <item>4</item> <!-- Vitória -->
+        <item>5</item> <!-- Ceará -->
+        <item>11</item> <!-- Cruzeiro -->
+        <item>4</item> <!-- Bahia -->
+        <item>5</item> <!-- Fortaleza -->
+        <item>23</item> <!-- Red Bull Bragantino -->
+        <item>23</item> <!-- Santos -->
+        <item>23</item> <!-- Mirassol -->
+        <item>15</item> <!-- Sport Recife -->
+        <item>19</item> <!-- Juventude -->
+
+    </integer-array>
+
+    <integer-array name="clubes_divisao">
+
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+
+
+    </integer-array>
+
+
+
+
+</resources>

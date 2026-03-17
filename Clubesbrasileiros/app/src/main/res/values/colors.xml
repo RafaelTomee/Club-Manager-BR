@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="preto">#220c10</color>
+    <color name="esverdeado">#eaf9d9</color>
+    <color name="laranja">#F49E4C</color>
+    <color name="amarelo">#FBAF00</color>
+    <color name="cinza">#857C8D</color>
+    <color name="ic_launcher_background">#FCD03C</color>
+    <color name="link">#3F51B5</color>
+    <color name="cinza_transparte">#C8808080</color>
+    <color name="laranja_transparte">#9AEB8F0D</color>
+
+</resources>

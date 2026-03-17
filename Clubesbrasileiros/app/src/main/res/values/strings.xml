@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">SoftFootball</string>
+    <string name="clubes_brasileiros">Brazilian Clubs</string>
+    <string name="clube">Club: </string>
+    <string name="limpar">Clear</string>
+    <string name="salvar">Save</string>
+    <string name="nomeDoClube">Club name</string>
+    <string name="as_entradas_foram_apagadas">The entries have been deleted!</string>
+    <string name="faltou_entrar_com_o_nome_do_clube">You forgot to enter the club name!</string>
+    <string name="clube_de_nome">Club </string>
+    <string name="foi_clicado">was clicked!</string>
+
+    <string name="temMundial">Has World Title</string>
+    <string name="nao_possui_mundial">Does not have a world title!</string>
+    <string name="serieA">Series A</string>
+    <string name="serieB">Series B</string>
+    <string name="serieC">Series C</string>
+    <string name="serieD">Series D</string>
+    <string name="faltou_preencher_a_divisao">You forgot to fill in the division!</string>
+    <string name="divisao">"Division: "</string>
+    <string name="estado">State</string>
+    <string name="acre">Acre</string>
+    <string name="alagoas">Alagoas</string>
+    <string name="amap">Amapá</string>
+    <string name="amazonas">Amazonas</string>
+    <string name="bahia">Bahia</string>
+    <string name="cear">Ceará</string>
+    <string name="esp_rito_santo">Espírito Santo</string>
+    <string name="goi_s">Goiás</string>
+    <string name="maranh_o">Maranhão</string>
+    <string name="mato_grosso">Mato Grosso</string>
+    <string name="mato_grosso_do_sul">Mato Grosso do Sul</string>
+    <string name="minas_gerais">Minas Gerais</string>
+    <string name="par">Pará</string>
+    <string name="para_ba">Paraíba</string>
+    <string name="paran">Paraná</string>
+    <string name="pernambuco">Pernambuco</string>
+    <string name="piau">Piauí</string>
+    <string name="rio_de_janeiro">Rio de Janeiro</string>
+    <string name="rio_grande_do_norte">Rio Grande do Norte</string>
+    <string name="rio_grande_do_sul">Rio Grande do Sul</string>
+    <string name="rond_nia">Rondônia</string>
+    <string name="roraima">Roraima</string>
+    <string name="santa_catarina">Santa Catarina</string>
+    <string name="s_o_paulo">São Paulo</string>
+    <string name="sergipe">Sergipe</string>
+    <string name="tocantins">Tocantins</string>
+    <string name="distrito_federal" translatable="false">Distrito Federal</string>
+    <string name="faltou_exibir_tipos_no_spinner">Failed to display types in Spinner</string>
+    <string name="estado_valor">"State: "</string>
+    <string name="LogoDoApp" />
+    <string name="descrição">History of titles of Brazilian clubs, to quickly check and compare achievements.</string>
+    <string name="autoria">Author: <a href="https://www.linkedin.com/in/rafael-tom%C3%A9-da-silva-66096a2a6/">Rafael Tomé da Silva</a></string>
+    <string name="sobre">About</string>
+    <string name="controle_de_clubes">Club Management</string>
+    <string name="adicionar">Add</string>
+    <string name="novo_clube">New Club</string>
+    <string name="site_utfpr" translatable="false">www.utfpr.edu.br</string>
+    <string name="email" translatable="false"><a href="">rafaeltomesilva@alunos.utfpr.edu.br</a></string>
+    <string name="Disciplina">Course: Software Engineering</string>
+    <string name="nenhum_aplicativo_para_abrir_pagina_web">No application available to open web page!</string>
+    <string name="nenhum_aplicativo_para_enviar_um_e_mail">No application available to send an e-mail!</string>
+    <string name="contato_pelo_aplicativo">Contact via the app</string>
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="editar_clube">Edit Club</string>
+    <string name="modo_escuro">Dark Mode</string>
+    <string name="ordenacao">Sorting</string>
+    <string name="aviso">Warning</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deseja_apagar">Do you want do delete?\n\"%1$s\"</string>
+    <string name="desfazer">Undo</string>
+    <string name="alteracao_realizada">Data update done</string>
+    <string name="erro_de_convecao_de_estado">Type conversion error!</string>
+    <string name="erro_ao_tentar_inserir">Error trying to insert!</string>
+    <string name="erro_ao_tentar_o_update">Error trying to update!</string>
+    <string name="erro_ao_tentar_excluir">Error trying to delete!</string>
+    <string name="data_fundacao">Date of foundation</string>
+    <string name="faltou_entrar_com_data_fundacao">the foundation date cannot be empty</string>
+    <string name="idade_invalida">The club must be more than 0 years old.</string>
+    <string name="fundacao">Foundation:</string>
+
+    <string name="cancelar">Cancel</string>
+    <string name="competicoes_de_clube">" %1$s titles"</string>
+    <string name="competicoes">Titles (%1$d)</string>
+
+    <string name="deseja_apagar_competicoes">Do you want to delete this title?</string>
+    <string name="o_texto_nao_pode_ser_vazio">The text cannot be empty!</string>
+    <string name="nova_competicao">New Title</string>
+    <string name="edite_texto_competicao">Edit title</string>
+
+</resources>

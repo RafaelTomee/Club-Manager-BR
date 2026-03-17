@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ThemeStylesIcons" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/laranja</item>
+         <item name="colorPrimaryVariant">@color/amarelo</item>
+         <item name="colorOnPrimary">@color/esverdeado</item>
+
+        <item name="android:textColorLink">@color/link</item>
+    </style>
+    
+    <style name="SpinnerDatePickerDialogTheme" parent ="ThemeOverlay.Material3.Light">
+        <item name="android:datePickerStyle">@style/SpinnerDatePickerStyle</item>
+        <item name="android:windowIsFloating">true</item>
+
+
+    </style>
+
+    <style name="SpinnerDatePickerStyle" parent = "android:Widget.Material.DatePicker">
+        <item name="android:datePickerMode">spinner</item>
+    </style>
+
+    <color name="corSelecionada">@color/laranja_transparte</color>
+
+</resources>
