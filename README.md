@@ -18,13 +18,13 @@ O projeto foi desenvolvido com foco em:
 
 🛠️ Tecnologias Utilizadas
 
-Java
+* Java
 
-Android SDK
+* Android SDK
 
-Room (SQLite) – Persistência de dados
+* Room (SQLite) – Persistência de dados
 
-Gradle (Kotlin DSL) – Gerenciamento de build
+* Gradle (Kotlin DSL) – Gerenciamento de build
 
 📌 Funcionalidades
 
@@ -45,11 +45,11 @@ Gradle (Kotlin DSL) – Gerenciamento de build
 🏗️ Estrutura do Projeto
 
 
-O app utiliza Room para persistência local, com:
+* O app utiliza Room para persistência local, com:
 
-DAOs para acesso aos dados
+* DAOs para acesso aos dados
 
-Entidades bem definidas
+* Entidades bem definidas
 
 Conversores para tipos como LocalDate e LocalDateTime
 
