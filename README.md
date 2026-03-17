@@ -1,7 +1,5 @@
 # Club-Manager-BR
 
-📱 Clubes Brasileiros
-
 Aplicativo Android desenvolvido para gerenciamento e visualização de clubes de futebol brasileiros e suas competições.
 
 🚀 Sobre o Projeto
