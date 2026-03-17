@@ -10,11 +10,11 @@ O Clubes Brasileiros é um aplicativo mobile que permite cadastrar, listar e vis
 
 O projeto foi desenvolvido com foco em:
 
-Prática de desenvolvimento Android nativo
+* Prática de desenvolvimento Android nativo
 
-Persistência de dados local
+* Persistência de dados local
 
-Organização em camadas (UI, modelo e persistência)
+* Organização em camadas (UI, modelo e persistência)
 
 🛠️ Tecnologias Utilizadas
 
